@@ -71,11 +71,27 @@ p {
     margin: 0 auto;
 }
 
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 20px 5% 5% 0%;
+    
+}
+
+header nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-bottom: 20px;
+    margin: 20px 0px;
     border-bottom: 1px dashed black;
 }
 
