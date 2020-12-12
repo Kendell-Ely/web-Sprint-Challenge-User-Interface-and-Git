@@ -120,13 +120,63 @@ header nav a{
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+div.boxes div.box1{
+    background-color: teal;
+
+}
+
+div.boxes div.box2{
+    background-color: gold;
+
+}
+
+div.boxes div.box3{
+    background-color: cadetblue;
+
+}
+
+div.boxes div.box4{
+    background-color: coral;
+
+}
+
+div.boxes div.box5{
+    background-color: crimson;
+
+}
+
+div.boxes div.box6{
+    background-color: forestgreen;
+
+}
+
+div.boxes div.box7{
+    background-color: darkorchid;
+
+}
+
+div.boxes div.box8{
+    background-color: hotpink;
+
+}
+
+div.boxes div.box9{
+    background-color: indigo;
+
+}
+
+div.boxes div.box10{
+    background-color: dodgerblue;
+
+}
+
 
 .bottom-content {
     display: flex;
